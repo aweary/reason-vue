@@ -1,0 +1,30 @@
+# ignore BS build files
+lib
+# ignore node_modules
+node_modules
+
+*.exe
+*.obj
+*.out
+*.compile
+*.native
+*.byte
+*.cmo
+*.annot
+*.cmi
+*.cmx
+*.cmt
+*.cmti
+*.cma
+*.a
+*.cmxa
+*.obj
+*~
+*.annot
+*.cmj
+*.bak
+lib/bs
+*.mlast
+*.mliast
+.vscode
+.merlin
