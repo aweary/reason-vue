@@ -1,6 +1,7 @@
-# Basic Reason Template
+# reason-vue
 
-Hello! This project allows you to quickly get started with Reason and BuckleScript. If you wanted a more sophisticated version, try the `react` template (`bsb -theme react -init .`).
+Reason bindings to vue.js
+
 
 # Build
 ```
