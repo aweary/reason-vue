@@ -1,6 +1,7 @@
 {
   "name": "reason-vue",
   "version": "0.1.0",
+  "description": "Reason bindings to vue.js",
   "scripts": {
     "clean": "bsb -clean-world",
     "build": "bsb -make-world",
