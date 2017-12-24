@@ -6,8 +6,16 @@
     "build": "bsb -make-world",
     "watch": "bsb -make-world -w"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aweary/reason-vue.git"
+  },
+  "homepage": "https://github.com/aweary/reason-vue#readme",
+  "bugs": "https://github.com/aweary/reason-vue/issues",
   "keywords": [
-    "BuckleScript"
+    "reason",
+    "bucklescript",
+    "vue"
   ],
   "license": "MIT",
   "devDependencies": {
